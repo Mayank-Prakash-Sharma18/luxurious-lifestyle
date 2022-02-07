@@ -61,15 +61,13 @@ partners:
 
 I’m an Academician, Blogger, and Digital Marketer  
 
-I have worked in various fields, be it MNCs (corporate), armed forces, PSUs or private sector. I was a software engineer for 3 years, also worked in Indian Air Force as Flight lieutenant.
+I have worked in various fields, be it MNCs (corporate), armed forces, PSUs or private sector. 
 
-I also have vast experience with freelancing work and just enjoy the freedom that it allows me. The freedom to work from anywhere and at anytime of my choice. Moreover, it allows me to be with my pets and family. 
+I also have vast experience with freelancing work and just enjoy the freedom that it allows me. The freedom to work from anywhere and at any time of my choice. Moreover, it allows me to be with my pets and family. 
 
-I had my first puppy when I was around 6 years old. Thereafter, we also got a couple of parrots and rabbits. Our home used to look like a mini zoo. And I loved it. Then I got a couple of dogs at the age of 17, which remained with me till they died at a ripe age of 12 years, in 2011. One of my friend used to have a lot of kittens, and I loved spending time with them too. Even today I cannot imagine my life without my four-legged friends. 
+But I like to travel too. I believe that the best way to travel is via a bike. And the best way to exercise is via sports or bicycles. On this website, I intend to share my experiences and things that I have learned. 
 
-I love dogs and animals in general and I believe in giving them freedom even if we have them as pets. Not a big fan of tying them up all the time. 
-
-This website is a small effort on my side to share my tips and tricks with a wider audience, when it comes to taking care of our pets. 
+I hope these tips, caveats, and information will come in handy for people who love their freedom, and want to explore off-beat tracks. If you are not Adventurous, You probably are not living! 
 
 Regards <br>
 Mragank Shandilya <br>

@@ -63,7 +63,7 @@ menu_align = "center" # available option (left, right, or center )
 author = "Bikes and Bicycles"
 description = "All about Bikes and Bicycles"
 # contact form action
-# contact_form_action = "https://formspree.io/f/maylkwly" 
+contact_form_action = "https://formspree.io/f/mpzbpkzy" 
 # contact form works with https://formspree.io
 # Go to https://formspree.io, and create an account by click on signup button. Now verify your email address by click on varify button in the mail you got in your inbox. form action will looks like this contact_form_action = "https://formspree.io/your.name@email.com/" 
 
@@ -147,34 +147,55 @@ heading = "What Would You <br> Like To Read Today?"
 [Languages.en.about_me]
 title = "Hi, I am Mragank Shandilya!"
 image = "images/author.jpg"
-bio = "I am a working professional ..."
+bio = "Love the adventure that Bikes and Bicycles provide."
 
 ############# english navigation ##############
 
 [[Languages.en.menu.main]]
-name = "Dogs"
-url = "categories/dogs/"
+name = "Cruiser Bikes"
+url = "categories/cruiser-bikes/"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "Cats"
-url = "categories/cats/"
+name = "Dirt Bikes"
+url = "categories/dirt-bikes/"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "Parrots"
-url = "categories/parrots/"
+name = "Bicycles"
+url = "#"
 weight = 3
+hasChildren = true
+
+   [[Languages.en.menu.main]]
+   parent = "Bicycles"
+   name = "Road Bikes"
+   URL = "categories/road-bicycles/"
+   weight = 6
+
+   [[Languages.en.menu.main]]
+   parent = "Bicycles"
+   name = "Mountain Bikes"
+   url = "categories/mountain-bicycles/"
+   weight = 7
 
 [[Languages.en.menu.main]]
-name = "Fishes"
-url = "categories/fishes/"
-weight = 4
+name = "Accessories"
+url = "#"
+weight = 10
+hasChildren = true
 
-[[Languages.en.menu.main]]
-name = "Rabbits"
-url = "categories/rabbits/"
-weight = 5
+   [[Languages.en.menu.main]]
+   parent = "Accessories"
+   name = "Bike Accessories"
+   URL = "categories/bike-accessories/"
+   weight = 11
+
+   [[Languages.en.menu.main]]
+   parent = "Accessories"
+   name = "Bicycle Accessories"
+   url = "categories/bicycle-accessories/"
+   weight = 12
 
 [[Languages.en.menu.main]]
 name = "Contact"
@@ -220,36 +241,57 @@ weight = 2
 heading = "आज आप क्या <br> पढ़ना पसंद करेंगे ?"
 
 [Languages.hi.about_me]
-title = "नमस्ते, में मृगांक शांडिल्य !"
+title = ""
 image = "images/author.jpg"
-bio = "मुझे पालतू जानवरों - कुत्तों से लेकर बिल्लियों, तोते और यहां तक कि खरगोश पालने का एक दशक से भी अधिक का अनुभव है। अपना ज्ञान आप लोगों के साथ साझा करने का यह मेरा एक छोटा सा प्रयास है।"
+bio = ""
 
 ############# french navigation ##############
 
 [[Languages.hi.menu.main]]
-name = "कुत्ते"
-url = "categories/dogs/"
+name = "Cruiser Bikes"
+url = "categories/cruiser-bikes/"
 weight = 1
 
 [[Languages.hi.menu.main]]
-name = "बिल्लियाँ"
-url = "categories/cats/"
+name = "Dirt Bikes"
+url = "categories/dirt-bikes/"
 weight = 2
 
 [[Languages.hi.menu.main]]
-name = "तोते"
-url = "categories/parrots/"
+name = "Bicycles"
+url = "#"
 weight = 3
+hasChildren = true
+
+   [[Languages.hi.menu.main]]
+   parent = "Bicycles"
+   name = "Road Bikes"
+   URL = "categories/road-bicycles/"
+   weight = 6
+
+   [[Languages.hi.menu.main]]
+   parent = "Bicycles"
+   name = "Mountain Bikes"
+   url = "categories/mountain-bicycles/"
+   weight = 7
 
 [[Languages.hi.menu.main]]
-name = "मछलियां"
-url = "categories/fishes/"
-weight = 4
+name = "Accessories"
+url = "#"
+weight = 10
+hasChildren = true
 
-[[Languages.hi.menu.main]]
-name = "ख़रगोश"
-url = "categories/rabbits/"
-weight = 5
+   [[Languages.hi.menu.main]]
+   parent = "Accessories"
+   name = "Bike Accessories"
+   URL = "categories/bike-accessories/"
+   weight = 11
+
+   [[Languages.hi.menu.main]]
+   parent = "Accessories"
+   name = "Bicycle Accessories"
+   url = "categories/bicycle-accessories/"
+   weight = 12
 
 [[Languages.hi.menu.main]]
 name = "संपर्क"

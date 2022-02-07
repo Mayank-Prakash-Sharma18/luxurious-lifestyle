@@ -46,8 +46,8 @@ call_to_action:
 
 ## What is our main mission?
 
-We want to create awareness about pet care and sensitize people to treat animals more humanely. 
+New technology and changing work and family lifestyles have allowed many people to explore and experience unhackneyed travel and recreation tools - basically the toys of big boys. 
 
-Our aim is to open a country-wide NGO that can take care of animals, e.g. stray dogs and cats etc. and streamline all the services required for that purpose. 
+This website is dedicated to those free and adventurous souls that prefer to live out of the box, and tread the adventurous off-beat path!
 
 Regards

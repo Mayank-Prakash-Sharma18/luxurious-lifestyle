@@ -44,10 +44,3 @@ call_to_action:
 
 ---
 
-## What is our main mission?
-
-We want to create awareness about pet care and sensitize people to treat animals more humanely. 
-
-Our aim is to open a country-wide NGO that can take care of animals, e.g. stray dogs and cats etc. and streamline all the services required for that purpose. 
-
-Regards
