@@ -170,32 +170,32 @@ hasChildren = true
    [[Languages.en.menu.main]]
    parent = "Bicycles"
    name = "Road Bikes"
-   URL = "categories/road-bicycles/"
+   URL = "categories/road-bikes/"
    weight = 6
 
    [[Languages.en.menu.main]]
    parent = "Bicycles"
    name = "Mountain Bikes"
-   url = "categories/mountain-bicycles/"
+   url = "categories/mountain-bikes/"
    weight = 7
 
-[[Languages.en.menu.main]]
-name = "Accessories"
-url = "#"
-weight = 10
-hasChildren = true
+# [[Languages.en.menu.main]]
+# name = "Accessories"
+# url = "#"
+# weight = 10
+# hasChildren = true
 
-   [[Languages.en.menu.main]]
-   parent = "Accessories"
-   name = "Bike Accessories"
-   URL = "categories/bike-accessories/"
-   weight = 11
+   # [[Languages.en.menu.main]]
+   # parent = "Accessories"
+   # name = "Motorbike Accessories"
+   # URL = "categories/motorbike-accessories/"
+   # weight = 11
 
-   [[Languages.en.menu.main]]
-   parent = "Accessories"
-   name = "Bicycle Accessories"
-   url = "categories/bicycle-accessories/"
-   weight = 12
+   # [[Languages.en.menu.main]]
+   # parent = "Accessories"
+   # name = "Bike Accessories"
+   # url = "categories/bicycle-accessories/"
+   # weight = 12
 
 [[Languages.en.menu.main]]
 name = "Contact"
@@ -247,84 +247,84 @@ bio = ""
 
 ############# french navigation ##############
 
-[[Languages.hi.menu.main]]
-name = "Cruiser Bikes"
-url = "categories/cruiser-bikes/"
-weight = 1
+# [[Languages.hi.menu.main]]
+# name = "Cruiser Motorbikes"
+# url = "categories/cruiser-bikes/"
+# weight = 1
 
-[[Languages.hi.menu.main]]
-name = "Dirt Bikes"
-url = "categories/dirt-bikes/"
-weight = 2
+# [[Languages.hi.menu.main]]
+# name = "Dirt Motorbikes"
+# url = "categories/dirt-bikes/"
+# weight = 2
 
-[[Languages.hi.menu.main]]
-name = "Bicycles"
-url = "#"
-weight = 3
-hasChildren = true
+# [[Languages.hi.menu.main]]
+# name = "Bikes"
+# url = "#"
+# weight = 3
+# hasChildren = true
 
-   [[Languages.hi.menu.main]]
-   parent = "Bicycles"
-   name = "Road Bikes"
-   URL = "categories/road-bicycles/"
-   weight = 6
+#    [[Languages.hi.menu.main]]
+#    parent = "Bikes"
+#    name = "Road Bikes"
+#    URL = "categories/road-bicycles/"
+#    weight = 6
 
-   [[Languages.hi.menu.main]]
-   parent = "Bicycles"
-   name = "Mountain Bikes"
-   url = "categories/mountain-bicycles/"
-   weight = 7
+#    [[Languages.hi.menu.main]]
+#    parent = "Bikes"
+#    name = "Mountain Bikes"
+#    url = "categories/mountain-bicycles/"
+#    weight = 7
 
-[[Languages.hi.menu.main]]
-name = "Accessories"
-url = "#"
-weight = 10
-hasChildren = true
+# [[Languages.hi.menu.main]]
+# name = "Accessories"
+# url = "#"
+# weight = 10
+# hasChildren = true
 
-   [[Languages.hi.menu.main]]
-   parent = "Accessories"
-   name = "Bike Accessories"
-   URL = "categories/bike-accessories/"
-   weight = 11
+#    [[Languages.hi.menu.main]]
+#    parent = "Accessories"
+#    name = "Motorbike Accessories"
+#    URL = "categories/motorbike-accessories/"
+#    weight = 11
 
-   [[Languages.hi.menu.main]]
-   parent = "Accessories"
-   name = "Bicycle Accessories"
-   url = "categories/bicycle-accessories/"
-   weight = 12
+#    [[Languages.hi.menu.main]]
+#    parent = "Accessories"
+#    name = "Bike Accessories"
+#    url = "categories/bicycle-accessories/"
+#    weight = 12
 
-[[Languages.hi.menu.main]]
-name = "संपर्क"
-url = "#"
-weight = 16
-hasChildren = true
+# [[Languages.hi.menu.main]]
+# name = "संपर्क"
+# url = "#"
+# weight = 16
+# hasChildren = true
 
-   [[Languages.hi.menu.main]]
-   parent = "संपर्क"
-   name = "संपर्क करें"
-   URL = "contact/"
-   weight = 17
+#    [[Languages.hi.menu.main]]
+#    parent = "संपर्क"
+#    name = "संपर्क करें"
+#    URL = "contact/"
+#    weight = 17
 
-   [[Languages.hi.menu.main]]
-   parent = "संपर्क"
-   name = "हमारे बारे में"
-   url = "about-us/"
-   weight = 18
+#    [[Languages.hi.menu.main]]
+#    parent = "संपर्क"
+#    name = "हमारे बारे में"
+#    url = "about-us/"
+#    weight = 18
 
 
-# footer menu
-[[Languages.hi.menu.footer]]
-name = "प्राइवेसी पॉलिसी"
-URL = "privacy-policy/"
-weight = 1
+# # footer menu
+# [[Languages.hi.menu.footer]]
+# name = "प्राइवेसी पॉलिसी"
+# URL = "privacy-policy/"
+# weight = 1
 
-[[Languages.hi.menu.footer]]
-name = "टर्म्स कंडीशंस"
-URL = "terms-conditions/"
-weight = 2
+# [[Languages.hi.menu.footer]]
+# name = "टर्म्स कंडीशंस"
+# URL = "terms-conditions/"
+# weight = 2
 
-[[Languages.hi.menu.footer]]
-name = "डिस्क्लेमर"
-URL = "disclaimer/"
-weight = 3
+# [[Languages.hi.menu.footer]]
+# name = "डिस्क्लेमर"
+# URL = "disclaimer/"
+# weight = 3
 
