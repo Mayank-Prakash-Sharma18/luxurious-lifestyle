@@ -152,19 +152,32 @@ bio = "Love the adventure that Bikes and Bicycles provide."
 ############# english navigation ##############
 
 [[Languages.en.menu.main]]
-name = "Cruiser Bikes"
-url = "categories/cruiser-bikes/"
+name = "Watches"
+url = "categories/watches/"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "Dirt Bikes"
-url = "categories/dirt-bikes/"
+name = "Bikes"
+url = "#"
 weight = 2
+hasChildren = true
+
+   [[Languages.en.menu.main]]
+   parent = "Bikes"
+   name = "Cruiser Bikes"
+   url = "categories/cruiser-bikes/"
+   weight = 3
+
+   [[Languages.en.menu.main]]
+   parent = "Bikes"
+   name = "Dirt Bikes"
+   url = "categories/dirt-bikes/"
+   weight = 4
 
 [[Languages.en.menu.main]]
 name = "Bicycles"
 url = "#"
-weight = 3
+weight = 5
 hasChildren = true
 
    [[Languages.en.menu.main]]

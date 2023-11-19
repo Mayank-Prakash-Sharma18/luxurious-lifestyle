@@ -5,7 +5,7 @@ date: 2022-03-02T15:40:24+06:00
 images:
   - "images/post/bicycles/hybrid-bike.jpg"
 #author
-author: "Mayank Sharma"
+author: "Mak"
 # description
 description: ""
 # Taxonomies

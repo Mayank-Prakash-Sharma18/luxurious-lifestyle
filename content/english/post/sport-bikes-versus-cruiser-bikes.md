@@ -5,7 +5,7 @@ date: 2022-03-01T15:40:24+06:00
 images:
   - "images/post/cruiser-bikes/sport-bikes-versus-cruiser-bikes.jpg"
 #author
-author: "Mayank Sharma"
+author: "Mak"
 # description
 description: ""
 # Taxonomies

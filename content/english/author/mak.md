@@ -2,7 +2,7 @@
 title: "Mak"
 image: ""
 email: "luxurious.lifestyle108@gmail.com"
-description: "Animal lover and Experienced Writer"
+description: "Blogger and Experienced Writer"
 social:
   - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
     link : "#"

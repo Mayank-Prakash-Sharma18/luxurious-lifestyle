@@ -5,7 +5,7 @@ date: 2022-03-01T15:40:24+06:00
 images:
   - "images/post/dirt-bikes/illegal-dirt-bike.jpg"
 #author
-author: "Mayank Sharma"
+author: "Mak"
 # description
 description: ""
 # Taxonomies

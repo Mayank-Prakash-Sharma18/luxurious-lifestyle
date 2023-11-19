@@ -3,9 +3,9 @@ title: "Do we need a Bicycle Insurance?"
 date: 2022-06-24T15:40:24+06:00
 # post thumb
 images:
-  - "images/post/bicycles/  .jpg"
+  - "images/post/bicycles/bicycle-insurance.jpg"
 #author
-author: "Mayank Sharma"
+author: "Mak"
 # description
 description: ""
 # Taxonomies

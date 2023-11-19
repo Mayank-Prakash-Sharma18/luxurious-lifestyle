@@ -5,7 +5,7 @@ date: 2022-05-31T15:40:24+06:00
 images:
   - "images/post/dirt-bikes/pit-bike-vs-dirt-bike.png"
 #author
-author: "Mayank Sharma"
+author: "Mak"
 # description
 description: ""
 # Taxonomies

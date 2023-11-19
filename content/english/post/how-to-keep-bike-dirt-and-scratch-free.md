@@ -5,7 +5,7 @@ date: 2022-06-03T15:40:24+06:00
 images:
   - "images/post/cruiser-bikes/bike-scratch.png"
 #author
-author: "Mayank Sharma"
+author: "Mak"
 # description
 description: ""
 # Taxonomies

@@ -5,7 +5,7 @@ date: 2022-03-06T15:40:24+06:00
 images:
   - "images/post/dirt-bikes/trail-dirt-bikes.jpg"
 #author
-author: "Mayank Sharma"
+author: "Mak"
 # description
 description: ""
 # Taxonomies
