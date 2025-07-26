@@ -174,23 +174,41 @@ hasChildren = true
    url = "categories/dirt-bikes/"
    weight = 4
 
+   [[Languages.en.menu.main]]
+   parent = "Bikes"
+   name = "Road Bikes"
+   URL = "categories/road-bikes/"
+   weight = 5
+
+   [[Languages.en.menu.main]]
+   parent = "Bikes"
+   name = "Mountain Bikes"
+   url = "categories/mountain-bikes/"
+   weight = 6
+
 [[Languages.en.menu.main]]
-name = "Bicycles"
+name = "Alt-Homes"
 url = "#"
-weight = 5
+weight = 10
 hasChildren = true
 
    [[Languages.en.menu.main]]
-   parent = "Bicycles"
-   name = "Road Bikes"
-   URL = "categories/road-bikes/"
-   weight = 6
+   parent = "Alt-Homes"
+   name = "Alternative Housing"
+   url = "categories/alternative-housing/"
+   weight = 11
 
    [[Languages.en.menu.main]]
-   parent = "Bicycles"
-   name = "Mountain Bikes"
-   url = "categories/mountain-bikes/"
-   weight = 7
+   parent = "Alt-Homes"
+   name = "RVs"
+   url = "categories/rv/"
+   weight = 12
+
+   [[Languages.en.menu.main]]
+   parent = "Alt-Homes"
+   name = "Boat Homes"
+   url = "categories/boat-homes/"
+   weight = 13
 
 # [[Languages.en.menu.main]]
 # name = "Accessories"
